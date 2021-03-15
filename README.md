@@ -18,7 +18,7 @@ I'm Maurício Cavalari, and I'm a frontend developer.
 
 
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://https://github.com/MauricioCavalari)](https://https://github.com/MauricioCavalari)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/MauricioCavalari)](https://github.com/MauricioCavalari)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maur%C3%ADcio-cavalari-aa18ab113/)](https://www.linkedin.com/in/maur%C3%ADcio-cavalari-aa18ab113/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mauriciocavalari_/)](https://www.instagram.com/mauriciocavalari_/)
 
